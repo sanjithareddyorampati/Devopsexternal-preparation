@@ -1,1 +1,2 @@
 This file used for practicing git commands
+this command is written in github to explore fetch command
